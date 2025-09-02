@@ -1,0 +1,135 @@
+
+
+
+body {
+background-color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+    color: burlywood;    
+}
+
+h1{
+    text-align: center;
+}
+
+.TWO{
+    text-align: center;
+    color: black;
+
+}
+
+
+
+
+.brown {
+    background-color: cornsilk;
+    height: 600px;
+    
+    
+    img {
+        height: 200px;
+        width: 300px;  
+        float: left;
+        margin-top: 40PX;
+        margin-right: 30px;   
+    }
+
+    .yy{
+        float: right;
+        margin: 30px;
+    }
+
+    #cof{
+        float: left;
+
+    }
+    .yellow{
+        color: black;
+    }
+}
+
+.sack{
+    background-color: white;
+    height: 600px;
+    width: 1300px;
+    margin-top: auto;
+    
+}
+.fee{
+    float: left;
+    
+}
+.pro{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0%;
+}
+.high{
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+.back{
+    background-color: antiquewhite;
+    width: 100px;
+    float: right;
+    
+}
+
+.gro{
+    
+    width: 1300px;
+    height: 500px;
+    
+
+}
+
+.rit{
+    width: 30px;
+    height: auto;;
+    background-color: aliceblue;
+    position: relative;
+    display: inline-block;
+}
+
+
+.goo{
+    height: 300px;
+    background-color: black;
+    position: relative;
+    justify-content: center;
+    display: flex;
+
+}
+
+.ble{
+    background-color: aliceblue;
+    height: 40px;
+    width: 400px;
+    margin-top: 160px;
+    position: absolute;
+    display: inline-flex
+    
+
+
+}
+
+.hou{
+    color: aliceblue;
+    text-align: center;
+    position: absolute;
+    margin-top: 30px;
+    
+    
+}
+
+
+
+#ker{
+    color: aliceblue;
+    margin-top: 90px;
+    text-align: justify;
+    text-align: center;
+}
